@@ -1,0 +1,5 @@
+PyPDF2==3.0.1
+tkinterdnd2==0.4.2
+tqdm==4.66.1
+Flask==3.0.0
+Werkzeug==3.0.1
